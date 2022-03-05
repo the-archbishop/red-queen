@@ -1,1 +1,1 @@
-# red-queen
+# Red Queen
