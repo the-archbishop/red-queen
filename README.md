@@ -35,5 +35,6 @@ Various chance related commands
 | ------- | ------- |
 | `$help` | Links to the help page |
 | `$stats` | Shows server stats |
+| `$ping` | Shows your latency to the server as well as the current API latency |
 
 [⬆ Back to top](#contents)
