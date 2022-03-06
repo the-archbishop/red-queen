@@ -34,7 +34,8 @@ Various chance related commands
 | Command | Info |
 | ------- | ------- |
 | `$help` | Links to the help page. |
-| `$stats` | Shows server stats. |
 | `$ping` | Shows your latency to the server as well as the current API latency. |
+| `$stats` | Shows server stats. |
+| `$userinfo` | Shows information about the user, such as date joined and roles. |
 
 [⬆ Back to top](#contents)
