@@ -24,6 +24,7 @@ Various chance related commands
 | ------- | ------- |
 | `$coin` | Flips a coin for you. |
 | `$roll <d#>` | Rolls a dice (d4 - d100) of your choice. You'll get a number from 1 to #. |
+| `$gmroll <d#>` | Rolls a dice (d4 - d100) of your choice. You'll get a number from 1 to #, in a private message. |
 
 [⬆ Back to top](#contents)
 
