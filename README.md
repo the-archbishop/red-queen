@@ -14,7 +14,7 @@
 
 | Key | Info |
 | ------- | ------- |
-| **Prefix** | Commands must be prefixed with `$` |
+| **Prefix** | Commands must be prefixed with `$`. |
 | \<argument\> | This means the argument is required. Do not type the brackets. |
 
 ## Chance
@@ -33,8 +33,8 @@ Various chance related commands
 
 | Command | Info |
 | ------- | ------- |
-| `$help` | Links to the help page |
-| `$stats` | Shows server stats |
-| `$ping` | Shows your latency to the server as well as the current API latency |
+| `$help` | Links to the help page. |
+| `$stats` | Shows server stats. |
+| `$ping` | Shows your latency to the server as well as the current API latency. |
 
 [⬆ Back to top](#contents)
