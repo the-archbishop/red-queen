@@ -38,7 +38,7 @@ Commands utilizing Board Game Geek's search engine or API
 | Command | Info |
 | ------- | ------- |
 | `$bgc <name> [playerCount] [maxPlayTime]` | Returns a link to a list of the user's board games, matching the player count and max play times (if entered). |
-| `$bgghot` | Returns a list of the top 15 games on Board Game Geek. |
+| `$bgghot` | Returns a hyperlinked list of the top 15 games on Board Game Geek. |
 
 [⬆ Back to top](#contents)
 
