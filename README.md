@@ -24,8 +24,8 @@ Various chance related commands
 | Command | Info |
 | ------- | ------- |
 | `$coin` | Flips a coin for you. |
-| `$roll <d#> [+/-] [#]` | Rolls a dice (d4 - d100) of your choice. You'll get a number from 1 to #.|
-| `$gmroll <d#> [+/-] [#]` | Rolls a dice (d4 - d100) of your choice. A number from 1 to # will be sent to you in a private message. |
+| `$roll <d#> [+/-] [#]` | Rolls a dice (d4 - d100) of your choice, then adds or subtracts your modifier. You'll get a number from 1 to #.|
+| `$gmroll <d#> [+/-] [#]` | Rolls a dice (d4 - d100) of your choice, then adds or subtracts your modifier. A number from 1 to # will be sent to you in a private message. |
 | `$conch <question>` | Oh, magic conch shell... |
 
 [⬆ Back to top](#contents)
