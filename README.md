@@ -8,6 +8,7 @@
 # Contents
 - [Commands](#commands)
   - [Chance](#chance)
+  - [Board Game Geek](#board-game-geek)
   - [Utilities](#utilities)
 
 # Commands
@@ -30,8 +31,18 @@ Various chance related commands
 
 [⬆ Back to top](#contents)
 
+
+## Board Game Geek
+Commands utilizing Board Game Geek's search engine or API
+
+| Command | Info |
+| ------- | ------- |
+| `$bgc <name> [playerCount] [maxPlayTime]` | Returns a link to a list of the user's board games, matching the player count and max play times (if entered). |
+
+[⬆ Back to top](#contents)
+
 ## Utilities
-Various chance related commands
+Commands that grab information on Discord or the bot
 
 |    Command    | Info |
 | ------- | ------- |
