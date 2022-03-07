@@ -16,6 +16,7 @@
 | ------- | ------- |
 | **Prefix** | Commands must be prefixed with `$`. |
 | \<argument\> | This means the argument is required. Do not type the brackets. |
+| \[argument\] | This means the argument is optional. Do not type the brackets. |
 
 ## Chance
 Various chance related commands
@@ -23,8 +24,8 @@ Various chance related commands
 | Command | Info |
 | ------- | ------- |
 | `$coin` | Flips a coin for you. |
-| `$roll <d#>` | Rolls a dice (d4 - d100) of your choice. You'll get a number from 1 to #. |
-| `$gmroll <d#>` | Rolls a dice (d4 - d100) of your choice. A number from 1 to # will be sent to you in a private message. |
+| `$roll <d#> [+/-] [#]` | Rolls a dice (d4 - d100) of your choice. You'll get a number from 1 to #.|
+| `$gmroll <d#> [+/-] [#]` | Rolls a dice (d4 - d100) of your choice. A number from 1 to # will be sent to you in a private message. |
 
 [⬆ Back to top](#contents)
 
