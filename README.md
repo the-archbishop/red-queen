@@ -43,8 +43,9 @@ Various chance related commands
 
 | Interval | Format |
 | ------- | ------- |
-| Days | 1d |
-| Hours | 2h |
+| Years | 1y |
+| Days | 7d |
+| Hours | 2.5h |
 | Minutes | 45m |
 | Seconds | 30s |
 
