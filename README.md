@@ -8,6 +8,7 @@
 # Contents
 - [Commands](#commands)
   - [Chance](#chance)
+  - [Remind](#remind)
   - [Board Game Geek](#board-game-geek)
   - [Utilities](#utilities)
 
@@ -32,6 +33,24 @@ Various chance related commands
 [⬆ Back to top](#contents)
 
 
+## Remind
+
+| Command | Info |
+| ------- | ------- |
+| `$remind <time> <reminder>` | Reminds you of something at the time interval given. |
+
+#### Time Examples
+
+| Interval | Format |
+| ------- | ------- |
+| Days | 1d |
+| Hours | 2h |
+| Minutes | 45m |
+| Seconds | 30s |
+
+[⬆ Back to top](#contents)
+
+
 ## Board Game Geek
 Commands utilizing Board Game Geek's search engine or API
 
@@ -41,6 +60,7 @@ Commands utilizing Board Game Geek's search engine or API
 | `$bgghot` | Returns a hyperlinked list of the top 15 games on Board Game Geek. |
 
 [⬆ Back to top](#contents)
+
 
 ## Utilities
 Commands that grab information on Discord or the bot
