@@ -9,6 +9,7 @@
 - [Commands](#commands)
   - [Chance](#chance)
   - [Remind](#remind)
+  - [Music](#music)
   - [Board Game Geek](#board-game-geek)
   - [Utilities](#utilities)
 
@@ -48,6 +49,23 @@ Various chance related commands
 | Hours | 2.5h |
 | Minutes | 45m |
 | Seconds | 30s |
+
+[⬆ Back to top](#contents)
+
+
+## Music
+Commands to control the music player<br />
+***Note: Must be in a voice channel to utilize these commands***
+
+| Command | Alias | Info |
+| ------- | ------- | ------- |
+| `$music play <YouTube URL or artist song name>` | `add` | Begins playing the first song, or adds a song to the queue. |
+| `$music volume <#>` | `vol` | Sets volume to a number between 1 and 100. |
+| `$music queue` | `q` | Gets a list of songs currently in the queue. |
+| `$music skip` | `next` | Skips to the next song in the queue. |
+| `$music pause` | `hold` | Pauses the current song. |
+| `$music resume` | `unpause` | Resumes playing the paused song. |
+| `$music stop` | `quit` | Stops playing music and exits the voice channel. |
 
 [⬆ Back to top](#contents)
 
