@@ -11,6 +11,7 @@
   - [Remind](#remind)
   - [Music](#music)
   - [Board Game Geek](#board-game-geek)
+  - [Feedback](#feedback)
   - [Utilities](#utilities)
 
 # Commands
@@ -77,6 +78,16 @@ Commands utilizing Board Game Geek's search engine or API
 | ------- | ------- |
 | `$bgc <name> [playerCount] [maxPlayTime]` | Returns a link to a list of the user's board games, matching the player count and max play times (if entered). |
 | `$bgghot` | Returns a hyperlinked list of the top 15 games on Board Game Geek. |
+
+[⬆ Back to top](#contents)
+
+
+## Feedback
+Commands that grab information on Discord or the bot
+
+|    Command    | Info |
+| ------- | ------- |
+|    `$poll <question>`     | Creates a simple poll with thumbs up or down reactions. |
 
 [⬆ Back to top](#contents)
 
