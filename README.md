@@ -11,7 +11,8 @@
   - [Remind](#remind)
   - [Music](#music)
   - [Board Game Geek](#board-game-geek)
-  - [Feedback](#feedback)
+  - [COVID 19](#covid-19)
+  - [Feedback](#feedback)  
   - [Utilities](#utilities)
 
 # Commands
@@ -82,8 +83,23 @@ Commands utilizing Board Game Geek's search engine or API
 [⬆ Back to top](#contents)
 
 
+## COVID 19
+Commands that grab state level information on COVID-19 from the Covid ActNow API
+
+|    Command    | Info |
+| ------- | ------- |
+|    `$covid <state>`     | Displays current information (including overall CDC risk level, infection rate, positivity rate, etc.) on COVID-19 in a specified state. |
+|    `$covidhist <state> [days]`     | Generates a graph of historical information on new cases and deaths per state for the past 14 days by default. A different number of days may be specified if desired. |
+
+### Example
+
+![Screenshot from Discord detailing COVID information for VA](https://i.imgur.com/a08U3Jf.jpg "Example response for $covid va")
+
+[⬆ Back to top](#contents)
+
+
 ## Feedback
-Commands that grab information on Discord or the bot
+Various feedback related commands
 
 |    Command    | Info |
 | ------- | ------- |
