@@ -8,6 +8,7 @@
 # Contents
 - [Commands](#commands)
   - [Chance](#chance)
+  - [Events](#events)
   - [Remind](#remind)
   - [Music](#music)
   - [Board Game Geek](#board-game-geek)
@@ -32,6 +33,29 @@ Various chance related commands
 | `$roll <d#> [+/-] [#]` | Rolls a dice (d4 - d100) of your choice, then adds or subtracts your modifier. You'll get a number from 1 to #.|
 | `$gmroll <d#> [+/-] [#]` | Rolls a dice (d4 - d100) of your choice, then adds or subtracts your modifier. A number from 1 to # will be sent to you in a private message. |
 | `$conch <question>` | Oh, magic conch shell... |
+
+[⬆ Back to top](#contents)
+
+
+## Events
+Commands to setup events for the channel
+
+| Command | Info |
+| ------- | ------- |
+| `$event <YYYY-MM-DD> <HH:mm> <AM/PM> <timezone>` | Once entered, the bot will ask you to enter a Title for the event, followed by a Description, and a Location - each in its own subsequent message. At any time, you may type `quit` to cancel. |
+
+### Valid Timezones
+You must use a timezone that is accepted by moment.js. See the link here for all acceptable timezones. Commonly used timezones are below.
+
+- EST
+- EST5EDT
+- CST6CDT
+- PST8PDT
+- US/Central
+- US/Eastern
+- US/Mountain
+- US/Pacific
+- UTC
 
 [⬆ Back to top](#contents)
 
