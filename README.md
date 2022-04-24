@@ -47,7 +47,7 @@ Commands to setup events for the channel, which people can RSVP to, as well as a
 | `$event <YYYY-MM-DD> <HH:mm> <AM/PM> <timezone>` | Once entered, the bot will ask you to enter a Title for the event, followed by a Description, and a Location - each in its own subsequent message. At any time, you may type `quit` to cancel. |
 
 ### Valid Timezones
-You must use a timezone that is accepted by moment.js. See the link here for all acceptable timezones. Commonly used timezones are below.
+You must use a timezone that is accepted by moment.js. See the link [here](https://github.com/the-archbishop/red-queen/blob/main/timezones.txt) for all acceptable timezones. Commonly used timezones are below.
 
 - EST
 - EST5EDT
@@ -58,6 +58,9 @@ You must use a timezone that is accepted by moment.js. See the link here for all
 - US/Mountain
 - US/Pacific
 - UTC
+
+### Example
+![Screenshot from Discord showing an example event](https://i.imgur.com/Ec0YTut.png "Example response for $event, after all details are entered")
 
 [⬆ Back to top](#contents)
 
