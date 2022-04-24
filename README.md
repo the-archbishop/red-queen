@@ -132,6 +132,9 @@ Various feedback related commands
 |    `$poll <question>`     | Creates a simple poll with thumbs up or down reactions. |
 |    `$dndday`     | Creates a poll with days of the week so that people can choose which day works best for them to play DnD. |
 
+### Example
+![Screenshot from Discord detailing the $dndday command](https://i.imgur.com/OwRkUCT.png "Example response for $dndday")
+
 [⬆ Back to top](#contents)
 
 
