@@ -42,6 +42,7 @@ Commands to setup events for the channel
 
 | Command | Info |
 | ------- | ------- |
+| `$event ?` | Bot will send a link directly to this section of the help file. |
 | `$event <YYYY-MM-DD> <HH:mm> <AM/PM> <timezone>` | Once entered, the bot will ask you to enter a Title for the event, followed by a Description, and a Location - each in its own subsequent message. At any time, you may type `quit` to cancel. |
 
 ### Valid Timezones
